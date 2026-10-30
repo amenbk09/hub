@@ -8,8 +8,8 @@
 //    Cette clé est faite pour être publique : ce sont les règles RLS du
 //    fichier supabase/schema.sql qui protègent tes données.
 //    NE METS JAMAIS ici la clé "service_role" / "secret".
-export const SUPABASE_URL = 'https://VOTRE-PROJET.supabase.co';
-export const SUPABASE_ANON_KEY = 'VOTRE-CLE-PUBLIQUE';
+export const SUPABASE_URL = 'https://liktnzipmurphxtbrfuz.supabase.co';
+export const SUPABASE_ANON_KEY = 'sb_publishable_Vp3Q2BRFyUzR3KO1SKIFrQ_gFTBhGpB';
 
 // 2) Infos affichées en en-tête des devis et factures
 export const COMPANY = {
